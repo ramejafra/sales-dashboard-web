@@ -1,0 +1,11 @@
+# Dependencias y build
+node_modules/
+dist/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
